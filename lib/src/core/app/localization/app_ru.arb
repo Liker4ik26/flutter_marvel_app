@@ -1,0 +1,13 @@
+{
+  "@@locale": "ru",
+  "appTitle": "marvel",
+  "@segmentMainScreen": {
+    "---------": "---------",
+    "description": "Main screen"
+  },
+  "mainScreenTitle": "Выбери своего героя",
+  "mainScreenInitializingConnection": "Инициализация соединения",
+  "mainScreenInternetConnection": "Есть подключение к Интернету",
+  "mainScreenConnectionLost": "Соединение потеряно",
+  "mainScreenReboot": "Перезагрузить"
+}

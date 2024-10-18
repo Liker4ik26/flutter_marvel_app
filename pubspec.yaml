@@ -1,0 +1,63 @@
+name: marvel
+description: "The project contains Marvel characters and a description."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.5
+  flutter_localizations:
+    sdk: flutter
+  flutter_svg: ^2.0.7
+  intl: ^0.18.0
+  dio: ^5.4.3+1
+  cupertino_icons: ^1.0.6
+  keyboard_dismisser: ^3.0.0
+  auto_route_generator: ^8.0.0
+  flutter_dotenv: ^5.1.0
+  cached_network_image: ^3.3.0
+  scroll_snap_list: ^0.9.1
+  json_annotation: ^4.9.0
+  connectivity_plus: ^6.0.3
+  crypto: ^3.0.1
+  go_router: ^11.1.4
+  get_it: ^7.7.0
+  flutter_cache_manager: ^3.4.1
+  firebase_messaging: ^15.1.0
+  firebase_core: ^3.4.0
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+  build_runner: ^2.4.9
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+  json_serializable: ^6.8.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  image_path: "assets/icons/app_icon.png"
+  min_sdk_android: 21
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/images/
+    - .env
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: fonts/inter_black.otf
+          weight: 800
+        - asset: fonts/inter_bold.otf
+          weight: 700

@@ -1,0 +1,13 @@
+{
+  "@@locale": "en",
+  "appTitle": "marvel",
+  "@segmentMainScreen": {
+    "---------": "---------",
+    "description": "Main screen"
+  },
+  "mainScreenTitle": "Choose your hero",
+  "mainScreenInitializingConnection": "Initializing the connection",
+  "mainScreenInternetConnection": "There is an internet connection",
+  "mainScreenConnectionLost": "Connection lost",
+  "mainScreenReboot": "Reboot"
+}
