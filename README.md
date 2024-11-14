@@ -23,7 +23,7 @@
 **MarvelApp** is a mobile application that provides information about Marvel heroes. It sends notifications, and when tapped, users can access detailed information about the hero. The app also caches data from the internet, allowing users to access information even when there is no network connection.
 
 - 🏆 **Platforms**: Android
-- 🔗 **Firebase Cloud Messaging **: is used for sending notifications.
+- 🔗 **Firebase Cloud Messaging**: is used for sending notifications.
 - 🎨 **Dark and Light Themes**: For comfortable use at any time of day.
 
 ---
