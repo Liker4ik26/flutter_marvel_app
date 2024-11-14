@@ -3,8 +3,7 @@ https://github.com/user-attachments/assets/02eef825-9ba9-467b-b1a3-0dbf5890e48f
  ![image 277 (1) (1)](https://github.com/user-attachments/assets/ce1e8205-26e3-424b-9e3f-fe1e9df35aa9) 
 # **MarvelApp** - An app for viewing information about a hero from the Marvel Universe.
 
-**MarvelApp** 
-MarvelApp is a mobile application that provides information about Marvel heroes. It sends notifications, and when tapped, users can access detailed information about the hero. The app also caches data from the internet, allowing users to access information even when there is no network connection.
+**MarvelApp**  is a mobile application that provides information about Marvel heroes. It sends notifications, and when tapped, users can access detailed information about the hero. The app also caches data from the internet, allowing users to access information even when there is no network connection.
 
 ---
 
