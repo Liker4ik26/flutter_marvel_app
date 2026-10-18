@@ -10,12 +10,16 @@
 
 ## Как выглядит проект
 
-| Интерфейс | Сценарии |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/ce1e8205-26e3-424b-9e3f-fe1e9df35aa9" alt="image 277 (1) (1)" width="340"/><br/>Экран 1 | <img src="https://github.com/user-attachments/assets/3ee4ac3c-66bc-47e5-8c6e-36e7849af10f" alt="Notification Sending (Dark Theme)" width="340"/><br/>Экран 2 |
-| <img src="https://github.com/user-attachments/assets/c0152c98-067a-467b-8629-21a13cd29976" alt="Orientation Change Support (Light Theme)" width="340"/><br/>Экран 3 | <img src="https://github.com/user-attachments/assets/7e87c799-97cd-495d-91ba-887b85f03f2e" alt="Orientation Change Support (Dark Theme)" width="340"/><br/>Экран 4 |
+![MarvelApp — интерфейс](https://github.com/user-attachments/assets/ce1e8205-26e3-424b-9e3f-fe1e9df35aa9)
 
-[Все изображения проекта](docs/GALLERY.md)
+### Видеодемонстрации
+
+- [Notification Sending (Dark Theme)](https://github.com/user-attachments/assets/3ee4ac3c-66bc-47e5-8c6e-36e7849af10f)
+- [Orientation Change Support (Light Theme)](https://github.com/user-attachments/assets/c0152c98-067a-467b-8629-21a13cd29976)
+- [Orientation Change Support (Dark Theme)](https://github.com/user-attachments/assets/7e87c799-97cd-495d-91ba-887b85f03f2e)
+- [Network Status Indicator (Light Theme)](https://github.com/user-attachments/assets/35d268d6-bf6c-4ced-99c5-d873417887bb)
+
+[Все демонстрации проекта](docs/GALLERY.md)
 
 ## Что в проекте
 
